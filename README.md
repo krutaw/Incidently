@@ -3,8 +3,8 @@
 > Incidently, pronounced [in-si-dent-lee], is named as an intentional mis-spelling of incidentally since the toolset is indeed anything but incidental.  The intent is to ease the effort of communication and tracking of Incidents during the process while also tracking the details in a more standard way.
 
 
-Dev site: [dev_url]
-Prod site: 
+Dev site: [dev_url]  
+Prod site:   
 
 ### Current Features
 
