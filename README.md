@@ -71,5 +71,5 @@ MIT
 
    [dev_url]: <https://TBD>
    [django]: <https://github.com/django/django>
-   [public repository]: <>
+   [public repository]: <https://github.com/krutaw/Incidently>
 
