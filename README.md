@@ -8,39 +8,39 @@ Prod site:
 
 ### Current Features
 
-- Define, track, and send Incident Alerts including the following Incident Fields:
--- Incident Ticket
--- Incident Owner
--- Incident Response Team Members (re-usable)
--- Incident Actions (re-usable)
--- Products affected (re-usable)
--- Summary
--- Incident Start / Creation / Resolution datetimes
--- Severity (1-5)
--- PHI relation
--- Executive involvement
--- Site outage
--- Number of Members impacted
--- GoTo Meeting ID
-- Active Directory Integration
--- TLS over port 636
-- Email
--- Recipient list based on product impacted
-- Permissions model
--- Currently based on Supervisor vs "Author" group only
+- Define, track, and send Incident Alerts including the following Incident Fields:  
+-- Incident Ticket  
+-- Incident Owner  
+-- Incident Response Team Members (re-usable)  
+-- Incident Actions (re-usable)  
+-- Products affected (re-usable)  
+-- Summary  
+-- Incident Start / Creation / Resolution datetimes  
+-- Severity (1-5)  
+-- PHI relation  
+-- Executive involvement  
+-- Site outage  
+-- Number of Members impacted  
+-- GoTo Meeting ID  
+- Active Directory Integration  
+-- TLS over port 636  
+- Email  
+-- Recipient list based on product impacted  
+- Permissions model  
+-- Currently based on Supervisor vs "Author" group only  
 
 
 ### Todo:
-- Additional Models
--- Incident Category
-** Category On-Call team contact definition
-- Hubot Integration
--- Command to gather Incident Status
-- OpenDuty Integration
--- Initiate alert to On-Call Team
--- Show current status for On-Call Alert
-- Testing
--- Need to write tests for each of the features
+- Additional Models  
+-- Incident Category  
+** Category On-Call team contact definition  
+- Hubot Integration  
+-- Command to gather Incident Status  
+- OpenDuty Integration  
+-- Initiate alert to On-Call Team  
+-- Show current status for On-Call Alert  
+- Testing  
+-- Need to write tests for each of the features  
 
 
 ### Tech
