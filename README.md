@@ -33,7 +33,7 @@ Prod site:
 ### Todo:
 - Additional Models  
 -- Incident Category  
-** Category On-Call team contact definition  
+** On-Call team contact definition  
 - Hubot Integration  
 -- Command to gather Incident Status  
 - OpenDuty Integration  
